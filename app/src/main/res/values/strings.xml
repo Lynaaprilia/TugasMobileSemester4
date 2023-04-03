@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Android Studio</string>
+    <string-array name="countries_arry">
+        <item>Indonesia</item>
+        <item>Malaysia</item>
+        <item>Swedia</item>
+        <item>Singapura</item>
+        <item>Filiphina</item>
+        <item>Kamboja</item>
+        <item>India</item>
+        <item>Korea</item>
+        <item>Jepang</item>
+        <item>Islandia</item>
+        <item>Saudia Arabia</item>
+        <item>Amerika</item>
+        <item>Jepang</item>
+        <item>Islandia</item>
+        <item>Saudia Arabia</item>
+        <item>Amerika</item>
+    </string-array>
+    <string-array name="programming_languages">
+        <item>python</item>
+        <item>Ruby</item>
+        <item>swift</item>
+        <item>visualstudio</item>
+        <item>ts</item>
+        <item>java</item>
+        <item>javascripst</item>
+    </string-array>
+    <string-array name="description">
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

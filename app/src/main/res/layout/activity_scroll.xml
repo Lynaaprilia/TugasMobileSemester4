@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:fillViewport="false"
+    tools:context=".ScrollActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical" android:layout_height="match_parent">
+        <TextView
+            android:id="@+id/loginscrn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="80dp"
+            android:text="Tampilan Scroll View"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            android:layout_gravity="center"></TextView>
+
+        <TextView
+            android:id="@+id/firsttext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="20dp"
+            android:text="Rumah Makan Lyns"
+            android:textSize="25dp"
+            android:layout_gravity="center">
+        </TextView>
+
+        <Button
+            android:layout_width="411dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="60dp"
+            android:text="Bakso"></Button>
+
+        <Button
+            android:layout_width="457dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="60dp"
+            android:text="Mie Ayam"></Button>
+
+        <Button
+            android:layout_width="426dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="60dp"
+            android:text="Nasi Pecel"></Button>
+
+        <Button
+            android:layout_width="425dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="60dp"
+            android:text="Soto"></Button>
+
+        <Button
+            android:layout_width="435dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="60dp"
+            android:text="Ayam geprek"></Button>
+
+        <Button
+            android:layout_width="430dp"
+            android:layout_height="55dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="60dp"
+            android:text="Bakso Aci"></Button>
+
+
+
+
+
+
+
+    </LinearLayout>
+</ScrollView>
